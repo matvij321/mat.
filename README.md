@@ -20,3 +20,22 @@
 <a href=""> про цербера</a>
  </footer>
 </html>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+color: white;
+}
+h2{
+color: white;
+}
+p{
+color: white;
+}
+ul{
+color: white;
+}
+img{
+width: 260px;
+height: 260px;
+}
